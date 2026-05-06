@@ -1,0 +1,26 @@
+[
+  {
+    "origin": "LON",
+    "destination": "PAR",
+    "max_price": 80,
+    "currency": "GBP",
+    "nights_min": 3,
+    "nights_max": 7
+  },
+  {
+    "origin": "LON",
+    "destination": "NYC",
+    "max_price": 350,
+    "currency": "GBP",
+    "nights_min": 7,
+    "nights_max": 14
+  },
+  {
+    "origin": "LON",
+    "destination": "TYO",
+    "max_price": 600,
+    "currency": "GBP",
+    "nights_min": 7,
+    "nights_max": 21
+  }
+]
